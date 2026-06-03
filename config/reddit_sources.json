@@ -1,0 +1,13 @@
+{
+  "subreddits": ["stocks", "investing", "wallstreetbets", "SecurityAnalysis"],
+  "queries": [
+    "NVDA OR TSLA OR AAPL OR MSFT OR AMD OR PLTR OR AVGO OR TSM",
+    "Nvidia OR Tesla OR Apple OR Microsoft OR Palantir OR Broadcom OR TSMC",
+    "\"US stocks\" OR \"stock market\" OR Nasdaq OR semiconductor"
+  ],
+  "sort": "new",
+  "time": "month",
+  "limitPerQuery": 25,
+  "includeComments": false,
+  "commentLimit": 50
+}
